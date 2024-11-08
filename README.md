@@ -100,5 +100,5 @@ consistency that are out of scope for this system.
 
 ## Copyright
 
-Copyright (C) 2024 NEC Laboratories America, Inc.
+Copyright (C) 2024 [NEC Laboratories America, Inc.](https://www.nec-labs.com)
 
